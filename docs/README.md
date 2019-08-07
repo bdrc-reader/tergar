@@ -1,6 +1,7 @@
 # དྲ་རྒྱའི་ནང་སྒྲིག་སྟངས་ཀྱི་དཔེ་མཚོན།
 
 ![image alt text](https://raw.githubusercontent.com/bdrc-reader/tergar-gonpa/master/docs/img/Tergar.png)
+
 # དཔེ་ཀློག་སྒེའུ་ཁུངས་ཁག
 
 dsdsdflkdjs
