@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://bdrc-reader.github.io/tergar-gonpa/">མདུན་ངོས།</a> •
-  <a href="https://bdrc-reader.github.io/mugey-gonpa/zendra">འཛིན་གྲྭ་སོ་སོའི་སྦྱོང་བྱ་ཁག</a> •
+  <a href="https://bdrc-reader.github.io/tergar-gonpa/zindra">འཛིན་གྲྭ་སོ་སོའི་སྦྱོང་བྱ་ཁག</a> •
     <span>གཏར་སྒར་དགོན་པའི་སྒྲུབ་མཆོད་ཀྱི་སྐོར།</span>
   </p>
 
