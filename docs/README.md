@@ -6,25 +6,12 @@
   </p>
 
 
-# དྲ་རྒྱའི་ནང་སྒྲིག་སྟངས་ཀྱི་དཔེ་མཚོན།
+# གཏེར་སྒར་དགོན་གྱི་དཔེ་ཀློག་སྒེའུ་ཁུང་།
 
 ![image alt text](https://raw.githubusercontent.com/bdrc-reader/tergar-gonpa/master/docs/img/Tergar.png)
 
-# དཔེ་ཀློག་སྒེའུ་ཁུངས་ཁག
+# དཔེ་ཀློག་སྒེའུ་ཁུང་ཁག
 
-dsdsdflkdjs
+ངོ་སྤྲོད་འབྲི་དགོས།
 
-# རང་མགོན་གྱིས་པར་སྐྱུན་བྱས་པའི་དཔེ་ཆ།
-ldfksajfc;lkxjfnx
 
-# དཔེ་ཀློག་སྒེའུ་ཁུང་སོ་སོའི་དྲ་རྒྱའི་ནང་དུ་བསྒྲིག་ཚུལ།
-ldfksajfc;lkxjfnxz
-
-# དཔེ་ཀློག་སྒེའུ་ཁུང་གསར་དུ་སྒྲིག་ཚུལ།
-ldfksajfc;lkxjfnxz
-
-# དཀར་ཆག་བསྐྱར་བཅོས་བྱེད་ཚུལ།
-ldfksajfc;lkxjfnxz
-
-# ཡི་གེ་བཏགས་མ་སྣོན་ཚུལ།
-ldfksajfc;lkxjfnxz
