@@ -6,7 +6,7 @@
 
 # གཏེར་སྒར་དགོན་གྱི་དཔེ་ཀློག་སྒེའུ་ཁུང་།
 
-![image alt text](https://raw.githubusercontent.com/bdrc-reader/tergar-gonpa/master/docs/img/Tergar.png)
+![image alt text](http://raw.githubusercontent.com/bdrc-reader/tergar-gonpa/master/docs/img/Tergar.png)
 
 <br>
 

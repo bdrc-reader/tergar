@@ -4,7 +4,7 @@
   </p>
 
 
-<iframe src="https://library.bdrc.io/scripts/embed-iframe.html?work=bdr:W1ERI0028002&origin=website.com" width="100%" height="100%"</iframe>
+<iframe src="http://library.bdrc.io/scripts/embed-iframe.html?work=bdr:W1ERI0028002&origin=website.com" width="100%" height="100%"</iframe>
 
 # གཏེར་སྒར་དགོནཔའི་སྒྲུབ་མཆོད་ཀྱི་སྐོར།
 
