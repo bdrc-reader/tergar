@@ -1,10 +1,10 @@
 <p align="center">
   <span>མདུན་ངོས།</span> •
-  <a href="https://bdrc-reader.github.io/tergar/zendra">འཛིན་གྲྭ་སོ་སོའི་སྦྱོང་བྱ་ཁག</a> • <a href="https://bdrc-reader.github.io/tergar/drubchod">གཏེར་སྒར་གྱི་སྒྲུབ་མཆོད་ཀྱི་སྐོར།</a> • <a href="https://bdrc-reader.github.io/tergar/sungbum">གཏེར་སྒར་དང་འབྲེལ་བའི་གསུང་འབུམ་ཁག</a>
+  <a href="https://bdrc-reader.github.io/tergar/zendra">བཤད་གྲྭ།</a> • <a href="https://bdrc-reader.github.io/tergar/drubchod">སྒྲུབ་མཆོད་ཀྱི་སྐོར།</a> • <a href="https://bdrc-reader.github.io/tergar/sungbum">གསུང་འབུམ་ཁག</a>
   </p>
 
 
-# གཏེར་སྒར་དགོན་གྱི་དཔེ་ཀློག་སྒེའུ་ཁུང་།
+# གཏེར་སྒར་གྱི་དཔེ་ཀློག་སྒེའུ་ཁུང་།
 
 ![image alt text](http://raw.githubusercontent.com/bdrc-reader/tergar-gonpa/master/docs/img/Tergar.png)
 
