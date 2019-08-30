@@ -17,7 +17,7 @@
 
 གོང་དུ་བཤད་པ་ལྟར་ཁྱེད་ལ་མཁོ་བའི་དཔེ་ཆ་རེ་རེའི་མཚན་བྱང་དང་བརྩམས་ཆོས་ཨང་ཡང་ན་རྩོམ་པ་པོའི་མཚན་གང་བྲིས་ནས་བཙལ་རུང་ཁྱེད་ལ་དགོས་པའི་དཔེ་ཆ་དེ་རྙེད་ཐུབ།
 
-![images](https://github.com/bdrc-reader/rigzo/blob/master/docs/img/01.PNG)
+![images](https://github.com/bdrc-reader/rigzo/blob/master/docs/img/01.png)
 
 <br>
 
