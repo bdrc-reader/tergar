@@ -4,7 +4,7 @@
   </p>
 
 
-<iframe allowfullscreen src="https://library.bdrc.io/scripts/embed-iframe.html?work=bdr:W1ERI0028003&origin=website.com" width="100%" height="600"></iframe>
+<iframe allowfullscreen src="https://library.bdrc.io/scripts/embed-iframe.html?work=bdr:W1ERI0028003&origin=tergar" width="100%" height="600"></iframe>
  
 <br>
 
@@ -13,7 +13,7 @@
 iframe ཀྱི་ཨང་བརྡ། གཤམ་དུ་བཀོད་པའི་དཔེ་ཀློག་སྒེའུ་ཁུང་གི་ཨང་བརྡ་རྣམས་ངོ་བཤུ་བྱས་ཏེ་སྒེར་དང་ཚོགས་པའི་དྲ་ཚིགས་གང་གི་ནང་བླུག་ཀྱང་དཔེ་ཀློག་སྒེའུ་ཁུང་འདི་ཐད་ཀར་བཀོལ་ཐུབ་པ་ཡིན།
 
 ```
-<iframe allowfullscreen src="https://library.bdrc.io/scripts/embed-iframe.html?work=bdr:W1ERI0028003&origin=website.com" width="100%" height="600"></iframe>
+<iframe allowfullscreen src="https://library.bdrc.io/scripts/embed-iframe.html?work=bdr:W1ERI0028003&origin=tergar" width="100%" height="600"></iframe>
 ```
 
 # གཏེར་སྒར་དགོན་པའི་འཛིན་གྲྭ་སོ་སོའི་སྦྱོང་བྱ།
